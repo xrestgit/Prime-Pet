@@ -1,5 +1,5 @@
 # Prime-Pet
-[anchor text](https://theprimepetfood.com/) We are Prime Pet Food, a team of passionate pet lovers dedicated to providing the best nutrition for your furry friends.
+[Prime Pet](https://theprimepetfood.com/) We are Prime Pet Food, a team of passionate pet lovers dedicated to providing the best nutrition for your furry friends.
 
 We use only high-quality, natural ingredients that promote health and happiness for your pets. Our dog chews are not just tasty; they also help keep your dog’s teeth clean and strong.
 
